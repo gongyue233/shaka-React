@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shaka-React/static/css/main.92506846.chunk.css",
+    "main.js": "/shaka-React/static/js/main.e3a1b112.chunk.js",
+    "main.js.map": "/shaka-React/static/js/main.e3a1b112.chunk.js.map",
+    "runtime-main.js": "/shaka-React/static/js/runtime-main.51647725.js",
+    "runtime-main.js.map": "/shaka-React/static/js/runtime-main.51647725.js.map",
+    "static/css/2.95db2570.chunk.css": "/shaka-React/static/css/2.95db2570.chunk.css",
+    "static/js/2.1292c44a.chunk.js": "/shaka-React/static/js/2.1292c44a.chunk.js",
+    "static/js/2.1292c44a.chunk.js.map": "/shaka-React/static/js/2.1292c44a.chunk.js.map",
+    "static/js/3.3f4d08eb.chunk.js": "/shaka-React/static/js/3.3f4d08eb.chunk.js",
+    "static/js/3.3f4d08eb.chunk.js.map": "/shaka-React/static/js/3.3f4d08eb.chunk.js.map",
+    "index.html": "/shaka-React/index.html",
+    "static/css/2.95db2570.chunk.css.map": "/shaka-React/static/css/2.95db2570.chunk.css.map",
+    "static/css/main.92506846.chunk.css.map": "/shaka-React/static/css/main.92506846.chunk.css.map",
+    "static/js/2.1292c44a.chunk.js.LICENSE.txt": "/shaka-React/static/js/2.1292c44a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/shaka-React/static/media/element-icons.da1319c2.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51647725.js",
+    "static/css/2.95db2570.chunk.css",
+    "static/js/2.1292c44a.chunk.js",
+    "static/css/main.92506846.chunk.css",
+    "static/js/main.e3a1b112.chunk.js"
+  ]
+}
